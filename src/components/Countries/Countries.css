@@ -1,0 +1,10 @@
+.countryCss {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    
+}
+
+.flagCss {
+    height: 200px;
+    width: 100%;
+}
